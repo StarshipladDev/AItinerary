@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\OpenAPI_Mock_Server.props" />
+</Project>

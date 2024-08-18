@@ -1,0 +1,102 @@
+{
+  "suppliers": [
+    {
+      "Name": "Pacific Resort Rarotonga",
+      "DatesAvailable": [ "2024-11-01", "2024-11-02", "2024-11-03", "2024-11-04", "2024-11-05", "2024-11-10" ],
+      "Description": "A luxury resort located on the beachfront of Muri Lagoon, offering world-class amenities and accommodations.",
+      "Type": "Accommodation",
+      "Cost": 350
+    },
+    {
+      "Name": "Trader Jacks",
+      "DatesAvailable": [ "2024-11-02", "2024-11-03", "2024-11-04", "2024-11-06", "2024-11-07", "2024-11-11" ],
+      "Description": "A popular beachfront restaurant and bar known for its lively atmosphere and delicious seafood.",
+      "Type": "Activity",
+      "Cost": 45
+    },
+    {
+      "Name": "The Mooring Fish Café",
+      "DatesAvailable": [ "2024-11-01", "2024-11-03", "2024-11-04", "2024-11-07", "2024-11-08", "2024-11-12" ],
+      "Description": "A charming café located by the beach, famous for its fresh fish sandwiches and casual dining experience.",
+      "Type": "Activity",
+      "Cost": 25
+    },
+    {
+      "Name": "Tikioki Marine Reserve",
+      "DatesAvailable": [ "2024-11-02", "2024-11-04", "2024-11-05", "2024-11-08", "2024-11-10", "2024-11-13" ],
+      "Description": "A marine protected area ideal for snorkeling and diving to explore vibrant coral reefs and marine life.",
+      "Type": "Activity",
+      "Cost": 60
+    },
+    {
+      "Name": "Charlie’s Café and Beach Hire",
+      "DatesAvailable": [ "2024-11-01", "2024-11-05", "2024-11-06", "2024-11-09", "2024-11-10", "2024-11-14" ],
+      "Description": "A cozy café offering delicious local dishes, as well as beach equipment rentals for a fun day out.",
+      "Type": "Activity",
+      "Cost": 30
+    },
+    {
+      "Name": "Vaima Polynesian Restaurant",
+      "DatesAvailable": [ "2024-11-03", "2024-11-06", "2024-11-08", "2024-11-10", "2024-11-13", "2024-11-15" ],
+      "Description": "A fine dining restaurant serving traditional Polynesian cuisine with a modern twist.",
+      "Type": "Activity",
+      "Cost": 70
+    },
+    {
+      "Name": "Cook Islands Cultural Village",
+      "DatesAvailable": [ "2024-11-01", "2024-11-02", "2024-11-05", "2024-11-06", "2024-11-09", "2024-11-11" ],
+      "Description": "An interactive cultural experience offering guided tours and performances showcasing Cook Islands traditions.",
+      "Type": "Activity",
+      "Cost": 50
+    },
+    {
+      "Name": "Highland Paradise Cultural Centre",
+      "DatesAvailable": [ "2024-11-02", "2024-11-04", "2024-11-06", "2024-11-08", "2024-11-10", "2024-11-13" ],
+      "Description": "A cultural centre offering authentic Polynesian shows and traditional feasts.",
+      "Type": "Activity",
+      "Cost": 80
+    },
+    {
+      "Name": "Muri Beach Club Hotel",
+      "DatesAvailable": [ "2024-11-01", "2024-11-03", "2024-11-05", "2024-11-07", "2024-11-09", "2024-11-12" ],
+      "Description": "A boutique hotel located on Muri Beach, providing luxurious accommodations and stunning lagoon views.",
+      "Type": "Accommodation",
+      "Cost": 320
+    },
+    {
+      "Name": "Rarotonga Airport Shuttle Service",
+      "DatesAvailable": [ "2024-11-01", "2024-11-02", "2024-11-05", "2024-11-06", "2024-11-08", "2024-11-10" ],
+      "Description": "Reliable and convenient airport shuttle service offering transfers to and from Rarotonga International Airport.",
+      "Type": "Transport",
+      "Cost": 25
+    },
+    {
+      "Name": "Aitutaki Lagoon Day Trip",
+      "DatesAvailable": [ "2024-11-02", "2024-11-04", "2024-11-06", "2024-11-08", "2024-11-10", "2024-11-12" ],
+      "Description": "A day trip to Aitutaki Lagoon, known for its crystal-clear waters and stunning island scenery.",
+      "Type": "Activity",
+      "Cost": 150
+    },
+    {
+      "Name": "Rarotonga Car Rentals",
+      "DatesAvailable": [ "2024-11-01", "2024-11-04", "2024-11-06", "2024-11-09", "2024-11-11", "2024-11-14" ],
+      "Description": "A car rental service offering a range of vehicles to explore the island at your own pace.",
+      "Type": "Transport",
+      "Cost": 50
+    },
+    {
+      "Name": "Muri Beach Cottages",
+      "DatesAvailable": [ "2024-11-02", "2024-11-03", "2024-11-05", "2024-11-08", "2024-11-10", "2024-11-13" ],
+      "Description": "Cozy beachfront cottages located on Muri Beach, perfect for a relaxing getaway.",
+      "Type": "Accommodation",
+      "Cost": 180
+    },
+    {
+      "Name": "Island Night Show at Te Vara Nui",
+      "DatesAvailable": [ "2024-11-03", "2024-11-05", "2024-11-07", "2024-11-09", "2024-11-11", "2024-11-15" ],
+      "Description": "A spectacular island night show featuring traditional dance, music, and a feast.",
+      "Type": "Activity",
+      "Cost": 100
+    }
+  ]
+}

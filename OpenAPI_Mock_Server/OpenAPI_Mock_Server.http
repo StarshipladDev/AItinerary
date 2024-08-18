@@ -1,0 +1,6 @@
+@OpenAPI_Mock_Server_HostAddress = http://localhost:5243
+
+GET {{OpenAPI_Mock_Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

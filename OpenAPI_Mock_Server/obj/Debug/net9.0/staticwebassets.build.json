@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EvATpKP9qUkWn8spJGzpbkIwOnyM0xyX0nTsCs2/8I0=",
+  "Source": "OpenAPI_Mock_Server",
+  "BasePath": "_content/OpenAPI_Mock_Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

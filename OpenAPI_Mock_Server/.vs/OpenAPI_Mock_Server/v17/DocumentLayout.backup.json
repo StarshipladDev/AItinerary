@@ -1,21 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Code\\C#\\OpenAIDemo\\OpenAPI_Mock_Server\\",
+  "WorkspaceRootPath": "C:\\Code\\C#\\OpenAIDemo\\AItinerary\\OpenAPI_Mock_Server\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E58FFC06-BD19-4E09-9D66-20F3553C0E18}|OpenAPI_Mock_Server.csproj|c:\\code\\c#\\openaidemo\\openapi_mock_server\\controllers\\inputcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E58FFC06-BD19-4E09-9D66-20F3553C0E18}|OpenAPI_Mock_Server.csproj|c:\\code\\c#\\openaidemo\\aitinerary\\openapi_mock_server\\controllers\\inputcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E58FFC06-BD19-4E09-9D66-20F3553C0E18}|OpenAPI_Mock_Server.csproj|solutionrelative:controllers\\inputcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E58FFC06-BD19-4E09-9D66-20F3553C0E18}|OpenAPI_Mock_Server.csproj|c:\\code\\c#\\openaidemo\\openapi_mock_server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E58FFC06-BD19-4E09-9D66-20F3553C0E18}|OpenAPI_Mock_Server.csproj|c:\\code\\c#\\openaidemo\\aitinerary\\openapi_mock_server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E58FFC06-BD19-4E09-9D66-20F3553C0E18}|OpenAPI_Mock_Server.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58FFC06-BD19-4E09-9D66-20F3553C0E18}|OpenAPI_Mock_Server.csproj|c:\\code\\c#\\openaidemo\\aitinerary\\openapi_mock_server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E58FFC06-BD19-4E09-9D66-20F3553C0E18}|OpenAPI_Mock_Server.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E58FFC06-BD19-4E09-9D66-20F3553C0E18}|OpenAPI_Mock_Server.csproj|c:\\code\\c#\\openaidemo\\openapi_mock_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E58FFC06-BD19-4E09-9D66-20F3553C0E18}|OpenAPI_Mock_Server.csproj|c:\\code\\c#\\openaidemo\\aitinerary\\openapi_mock_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E58FFC06-BD19-4E09-9D66-20F3553C0E18}|OpenAPI_Mock_Server.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E58FFC06-BD19-4E09-9D66-20F3553C0E18}|OpenAPI_Mock_Server.csproj|c:\\code\\c#\\openaidemo\\openapi_mock_server\\assets\\accomodation.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{E58FFC06-BD19-4E09-9D66-20F3553C0E18}|OpenAPI_Mock_Server.csproj|c:\\code\\c#\\openaidemo\\aitinerary\\openapi_mock_server\\assets\\accomodation.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{E58FFC06-BD19-4E09-9D66-20F3553C0E18}|OpenAPI_Mock_Server.csproj|solutionrelative:assets\\accomodation.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,11 +38,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Code\\C#\\OpenAIDemo\\AItinerary\\OpenAPI_Mock_Server\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Code\\C#\\OpenAIDemo\\AItinerary\\OpenAPI_Mock_Server\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-18T11:43:08.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "accomodation.json",
-              "DocumentMoniker": "C:\\Code\\C#\\OpenAIDemo\\OpenAPI_Mock_Server\\Assets\\accomodation.json",
+              "DocumentMoniker": "C:\\Code\\C#\\OpenAIDemo\\AItinerary\\OpenAPI_Mock_Server\\Assets\\accomodation.json",
               "RelativeDocumentMoniker": "Assets\\accomodation.json",
-              "ToolTip": "C:\\Code\\C#\\OpenAIDemo\\OpenAPI_Mock_Server\\Assets\\accomodation.json",
+              "ToolTip": "C:\\Code\\C#\\OpenAIDemo\\AItinerary\\OpenAPI_Mock_Server\\Assets\\accomodation.json",
               "RelativeToolTip": "Assets\\accomodation.json",
               "ViewState": "AQIAADYAAAAAAAAAAAAwwGYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -46,11 +62,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Code\\C#\\OpenAIDemo\\OpenAPI_Mock_Server\\Program.cs",
+              "DocumentMoniker": "C:\\Code\\C#\\OpenAIDemo\\AItinerary\\OpenAPI_Mock_Server\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Code\\C#\\OpenAIDemo\\OpenAPI_Mock_Server\\Program.cs",
+              "ToolTip": "C:\\Code\\C#\\OpenAIDemo\\AItinerary\\OpenAPI_Mock_Server\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -58,11 +74,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Code\\C#\\OpenAIDemo\\OpenAPI_Mock_Server\\Controllers\\WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Code\\C#\\OpenAIDemo\\AItinerary\\OpenAPI_Mock_Server\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Code\\C#\\OpenAIDemo\\OpenAPI_Mock_Server\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Code\\C#\\OpenAIDemo\\AItinerary\\OpenAPI_Mock_Server\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -72,11 +88,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "InputController.cs",
-              "DocumentMoniker": "C:\\Code\\C#\\OpenAIDemo\\OpenAPI_Mock_Server\\Controllers\\InputController.cs",
+              "DocumentMoniker": "C:\\Code\\C#\\OpenAIDemo\\AItinerary\\OpenAPI_Mock_Server\\Controllers\\InputController.cs",
               "RelativeDocumentMoniker": "Controllers\\InputController.cs",
-              "ToolTip": "C:\\Code\\C#\\OpenAIDemo\\OpenAPI_Mock_Server\\Controllers\\InputController.cs",
+              "ToolTip": "C:\\Code\\C#\\OpenAIDemo\\AItinerary\\OpenAPI_Mock_Server\\Controllers\\InputController.cs",
               "RelativeToolTip": "Controllers\\InputController.cs",
-              "ViewState": "AgIAAF8AAAAAAAAAAAAswGsAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-21T18:33:52.802Z",
               "EditorCaption": ""
